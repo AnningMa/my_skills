@@ -11,7 +11,7 @@ Each skill is maintained in its own repository to keep development, versioning, 
 | Skill | Description | Status |
 |-------|-------------|--------|
 | **📈 Stock Picker** | 面向投资者的选股 Skill | 🚧 In Progress |
-| **✍️ Writing Architect** | 帮助作者完成从灵感到初稿的写作 Skill | 🚧 In Progress |
+| **✍️ Writing Architect** | 帮助作者完成从灵感到初稿的写作 Skill | Complete |
 
 ---
 
