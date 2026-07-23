@@ -11,7 +11,7 @@ Each skill is maintained in its own repository to keep development, versioning, 
 | Skill | Description | Status |
 |-------|-------------|--------|
 | **📈 Stock Picker** | 面向投资者的选股 Skill | 🚧 In Progress |
-| **✍️ Writing Architect** | 帮助作者完成从灵感到初稿的写作 Skill | Complete |
+| **✍️ Writing First Draft** | 帮助作者完成从灵感到初稿的写作 Skill | Complete |
 
 ---
 
@@ -33,7 +33,7 @@ https://github.com/AnningMa/stock-picker-skill
 
 ---
 
-# ✍️ Writing Architect
+# ✍️ Writing First Draft
 
 > 帮助专业作者将零散想法逐步发展为完整文章的写作 Skill。
 
@@ -48,7 +48,7 @@ https://github.com/AnningMa/stock-picker-skill
 
 🔗 Repository
 
-https://github.com/AnningMa/writing-architect
+https://github.com/AnningMa/writing-first-draft
 
 ---
 
