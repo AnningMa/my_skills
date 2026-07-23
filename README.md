@@ -62,7 +62,6 @@ Rather than serving as isolated prompts, these skills encapsulate reusable workf
 
 Coming soon:
 
-- Literature Review
-- Paper Reviewer
-- Product Designer
-- Code Reviewer
+- SOP-builder
+- multi-platform-search
+- -roduct-discoverer
