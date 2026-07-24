@@ -78,5 +78,4 @@ https://github.com/AnningMa/multi-platform-search-skill
 Coming soon:
 
 - SOP-builder
-- multi-platform-search
-- -roduct-discoverer
+- product-discoverer
